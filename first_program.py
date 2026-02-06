@@ -10,6 +10,7 @@ def view_student_details():
 add_student(1,"vani",98)
 add_student(2,"vinutha",98)
 add_student(3,"ajaay",100)
+add_student(4,"santosh", 100)
 view_student_details()
 
 #-----------------------------------------------------------------------------
